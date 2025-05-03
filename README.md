@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](./github-header-image.png)
+![Header](https://leviarista.github.io/github-profile-header-generator/images/decorations/coding-screen.png)
 
 # 💫 About Me:
 I'm Rahele Ahmadi, a Front-End Developer with a passion for creating<br>responsive and user-friendly web applications. I've been working with <br>Angular, Tailwind CSS, and TypeScript for over a year. I enjoy solving <br>real-word problems with clean code and good design.<br>I'm currently working on refining my Angular skills and contributing to <br>open-source projects.<br>I'm looking to collaborate on modern web apps, especially with Angular<br>on front-end UI.<br>I'm currently learning advance Angular patterns and performance<br>optimization.<br>I love building side projects just for fun-and learning from them! <br>
