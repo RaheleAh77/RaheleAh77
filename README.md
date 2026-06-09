@@ -20,7 +20,7 @@ I'm Rahele Ahmadi, a Front-End Developer with a passion for creating<br>responsi
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=RaheleAh77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contrib-stats.vercel.app/api?username=RaheleAh77&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 [![](https://komarev.com/ghpvc/?username=RaheleAh77&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
