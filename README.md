@@ -16,7 +16,7 @@ I'm Rahele Ahmadi, a Front-End Developer with a passion for creating<br>responsi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheleAh77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RaheleAh77&theme=radical&no-frame=true&margin-w=10)
+![](https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=RaheleAh77)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
