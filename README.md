@@ -15,14 +15,12 @@ I'm Rahele Ahmadi, a Front-End Developer with a passion for creating<br>responsi
 ![](https://nirzak-streak-stats.vercel.app/?user=RaheleAh77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheleAh77&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-git-master-rzashakeri.vercel.app/?username=RaheleAh77)
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api/pin/?username=RaheleAh77&repo=REPO_NAME&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaheleAh77&layout=compact&theme=tokyonight)
 
 ---
 [![](https://komarev.com/ghpvc/?username=RaheleAh77&label=Profile%20views&color=0e75b6&style=flat)](https://visitcount.itsvg.in)
